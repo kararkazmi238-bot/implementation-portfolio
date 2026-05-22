@@ -68,11 +68,11 @@ The scenario: leading a 16-week Salesforce NPSP implementation to consolidate 3 
 
 ```
 implementation-portfolio/
-├── crm-implementation.html    # Full interactive dashboard (self-contained)
+├── index.html    # Full interactive dashboard (self-contained)
 └── README.md                  # This file
 ```
 
-No build tools or dependencies. Open `crm-implementation.html` directly in any browser or view it live via GitHub Pages.
+No build tools or dependencies. Open `index.html` directly in any browser or view it live via GitHub Pages.
 
 ---
 
