@@ -81,7 +81,7 @@ No build tools or dependencies. Open `index.html` directly in any browser or vie
 ```bash
 git clone https://github.com/kararkazmi238-bot/implementation-portfolio.git
 cd implementation-portfolio
-open crm-implementation.html
+open index.html
 ```
 
 ---
